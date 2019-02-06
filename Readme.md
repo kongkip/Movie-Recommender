@@ -8,7 +8,7 @@ The above problem can be solved by building a recommendation engine which reccom
 
 I am going to build a system that will recommend movies to the user based on user ratings using the [LightFM](https://lyst.github.io/lightfm/docs/home.html) library.
 
-The code solution is in this [JupyterNotebook](https://github.com/kongaevans/Movie-Recommender/blob/master/movie_recommender_with_LightFm.ipynb)
+The code solution is in this [JupyterNotebook](https://github.com/kongaevans/Movie-Recommender/blob/master/movie_recommender_with_LightFm.ipynb).
 
 # Requirements
 -- python 3.7
